@@ -2,5 +2,6 @@
 
 
 ## Redux subapp:
-- https://radosny.github.io/redux-subapp/
-- https://radosny.github.io/redux-subapp-demo/
+[Presentation](https://radosny.github.io/redux-subapp/)
+
+[Demo](https://radosny.github.io/redux-subapp-demo/)
