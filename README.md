@@ -6,4 +6,4 @@
 
 [Demo](https://radosny.github.io/redux-subapp-demo/)
 
-[Demo - sourcecode](https://github.com/radosny/sub-space-demo)
+[Demo - source code](https://github.com/radosny/sub-space-demo)
